@@ -1,3 +1,2 @@
 # Aluno
-* Cristiano Sampaio Pinheiro 
-* RA: 256352
+* 256352: Cristiano Sampaio Pinheiro 
