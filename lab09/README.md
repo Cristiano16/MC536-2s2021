@@ -9,7 +9,7 @@ Indo além de completar os dados faltantes, ainda usando a dbpedia é possível 
 Por fim, há alguns dados a se acrescentar nas mídias, como a empresa resposável pela distribuição. Para as séries é possível acrescentar a informação do número total de episódios e para os filmes também podemos acrescentar a arrecadação obtida com aquele título.  
 Com essas adições o esquema do banco de dados ficaria como na Figura 1.
 
-![Esquema do banco de dados](/images/esquemaDB.png)
+![Esquema do banco de dados](images/esquemaDB.png)
 _Figura 1: Esquema do banco de dados_
 
 ## Perguntas de Pesquisa ou Queries
